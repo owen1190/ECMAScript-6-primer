@@ -7,6 +7,7 @@
 - [正则的扩展](https://github.com/owen1190/ECMAScript-6-primer/blob/master/note/4.%E6%AD%A3%E5%88%99%E7%9A%84%E6%89%A9%E5%B1%95.md)
 - [数组的扩展](https://github.com/owen1190/ECMAScript-6-primer/blob/master/note/6.%E6%95%B0%E7%BB%84%E7%9A%84%E6%89%A9%E5%B1%95.md)
 - [函数的扩展](https://github.com/owen1190/ECMAScript-6-primer/blob/master/note/7.%E5%87%BD%E6%95%B0%E7%9A%84%E6%89%A9%E5%B1%95.md)
+- [对象的扩展](https://github.com/owen1190/ECMAScript-6-primer/blob/master/note/8.%E5%AF%B9%E8%B1%A1%E7%9A%84%E6%89%A9%E5%B1%95.md)
 
 #参考资料
 [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
