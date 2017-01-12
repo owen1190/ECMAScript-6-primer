@@ -9,6 +9,8 @@
 - [函数的扩展](https://github.com/owen1190/ECMAScript-6-primer/blob/master/note/7.%E5%87%BD%E6%95%B0%E7%9A%84%E6%89%A9%E5%B1%95.md)
 - [对象的扩展](https://github.com/owen1190/ECMAScript-6-primer/blob/master/note/8.%E5%AF%B9%E8%B1%A1%E7%9A%84%E6%89%A9%E5%B1%95.md)
 - [symbol](https://github.com/owen1190/ECMAScript-6-primer/blob/master/note/9.symbol.md)
+- [10.set和map数据结构](https://github.com/owen1190/ECMAScript-6-primer/blob/master/note/10.set%E5%92%8Cmap%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
+- [11.Proxy](https://github.com/owen1190/ECMAScript-6-primer/blob/master/note/11.Proxy.md)
 
 #参考资料
 [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
