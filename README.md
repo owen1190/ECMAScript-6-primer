@@ -11,6 +11,7 @@
 - [symbol](https://github.com/owen1190/ECMAScript-6-primer/blob/master/note/9.symbol.md)
 - [10.set和map数据结构](https://github.com/owen1190/ECMAScript-6-primer/blob/master/note/10.set%E5%92%8Cmap%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
 - [11.Proxy](https://github.com/owen1190/ECMAScript-6-primer/blob/master/note/11.Proxy.md)
+- [12.Reflect](https://github.com/owen1190/ECMAScript-6-primer/blob/master/note/12.Reflect.md)
 
 #参考资料
 [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
