@@ -13,6 +13,7 @@
 - [11.Proxy](https://github.com/owen1190/ECMAScript-6-primer/blob/master/note/11.Proxy.md)
 - [12.Reflect](https://github.com/owen1190/ECMAScript-6-primer/blob/master/note/12.Reflect.md)
 - [13.Iterator和for...of循环](https://github.com/owen1190/ECMAScript-6-primer/blob/master/note/13.Iterator%E5%92%8Cfor...of%E5%BE%AA%E7%8E%AF.md)
+- [14.Generator函数](https://github.com/owen1190/ECMAScript-6-primer/blob/master/note/14.Generator%E5%87%BD%E6%95%B0.md)
 
 #参考资料
 [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
